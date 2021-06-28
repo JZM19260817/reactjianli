@@ -21,7 +21,7 @@
     "babel-preset-stage-3": "^6.22.0",
     "css-loader": "^0.26.1",
     "marked": "^0.3.6",
-    "prismjs": "^1.6.0",
+    "prismjs": "^1.24.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
     "react-prism": "^4.0.0",
